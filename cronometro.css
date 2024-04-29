@@ -1,0 +1,34 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+article{
+  height: 150px;
+  width: 300px;
+  border: 5px solid;
+  border-radius: 30px;
+  background-color: #454d66;
+}
+
+#display {
+   background-color: #309975;
+    font-size: 36px;
+    margin-bottom: 20px;
+    border-radius: 28px 28px 0px 0;
+   
+}
+button {
+    font-size: 18px;
+    padding: 10px 20px;
+    margin: 5px;
+    cursor: pointer;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+}
